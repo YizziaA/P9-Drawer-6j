@@ -2,18 +2,14 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+## Ejecucuion
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/YizziaA/P9-Drawer-6j/assets/143548810/6ca48259-ebce-45e4-8c22-98302e1cad40)
+![image](https://github.com/YizziaA/P9-Drawer-6j/assets/143548810/c413f364-128e-477f-9e30-dda52c9739e3)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Links de referencia
+https://appmaking.com/flutter-drawer-example/
+https://blog.logrocket.com/how-to-add-navigation-drawer-flutter/
+https://medium.com/flutter-community/flutter-vi-navigation-drawer-flutter-1-0-3a05e09b0db9
+https://youtu.be/jDQQM1RfjNc?si=aukMEV1Q4dp5t1Ta
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
